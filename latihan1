@@ -1,0 +1,16 @@
+latihan1 = "=====BIODATA====="
+nama = "Nama = Najwa Shihab"
+ttl = "TTL = Ujungpandang, 16 September 1977"
+jeniskelamin = "Jenis Kelamin = Perempuan"
+agama = "Agama = Islam"
+namaayah = "Nama Ayah = Quraish Shihab"
+namaibu = "Nama Ibu = Fatmawati Assegaf"
+pekerjaan = "Pekerjaan = Pembawa Acara, Jurnalis, Aktris, Feminis, Aktivis Media Sosial"
+print(latihan1)
+print(nama)
+print(ttl)
+print(jeniskelamin)
+print(agama)
+print(namaayah)
+print(namaibu)
+print(pekerjaan)
