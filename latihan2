@@ -1,0 +1,2 @@
+NamaUser = "Gusti Ayu Dwi Yanti"
+print("Halo", NamaUser)
