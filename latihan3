@@ -1,0 +1,12 @@
+print("------------------------------------------------------")
+print("\t\t Menghitung Luas Segitiga")
+print("------------------------------------------------------")
+alas=float(input("\t Masukkan Alasnya   ="))
+tinggi=float(input("\t Masukkan Tinggi    ="))
+
+def luasSgt(alas,tinggi):
+    luas = (alas*tinggi)/2
+    return luas
+luas=luasSgt (alas, tinggi)
+print("\t Luas Segitiga      =", luas, "m2")
+print("------------------------------------------------------")
