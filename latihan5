@@ -1,0 +1,6 @@
+print("Konversi Satuan Tinggi")
+kaki = float(int(input("Masukkan tinggi (kaki) :")))
+inci = float(int(input("Masukkan tinggi (inch) :")))
+print(kaki,"kaki =",kaki*12,"inch \n ",
+      kaki,"kaki =", kaki*12*2.54,"cm \n",
+      inci,"inch =",inci*2.54,"cm")
