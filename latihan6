@@ -1,0 +1,5 @@
+print("Konversi Satuan Jarak")
+kaki = float(int(input("Masukkan tinggi (kaki) :")))
+print(kaki,"kaki =",kaki*12,"inch \n ",
+      kaki,"kaki =", kaki*12*0.3333,"yard \n",
+      kaki,"kaki =",kaki*0.00018939,"mil")
