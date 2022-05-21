@@ -1,12 +1,12 @@
 print("------------------------------------------------------")
-print("\t\t Menghitung Luas Segitiga")
+print("\t\t Menghitung Luas Ruangan")
 print("------------------------------------------------------")
-alas=float(input("\t Masukkan Alasnya   ="))
-tinggi=float(input("\t Masukkan Tinggi    ="))
+p=float(input("\t Masukkan Panjang   ="))
+l=float(input("\t Masukkan Lebar    ="))
 
-def luasSgt(alas,tinggi):
-    luas = (alas*tinggi)/2
+def luasRuangan(p,l):
+    luas = (p*l)
     return luas
-luas=luasSgt (alas, tinggi)
-print("\t Luas Segitiga      =", luas, "m2")
+luas=luasRuangan (p, l)
+print("\t Luas Ruangan      =", luas, "m2")
 print("------------------------------------------------------")
